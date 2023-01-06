@@ -7,9 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-TeX      3 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.18 %
-Python   2 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.56 %
-Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+From: 29 December 2022 - To: 06 January 2023
+
+Total Time: 6 hrs 5 mins
+
+TeX      3 hrs 29 mins   >>>>>>>>>>>>>>-----------   57.18 %
+Python   2 hrs 31 mins   >>>>>>>>>>---------------   41.56 %
+Text     4 mins          -------------------------   01.26 %
 ```
 
 <!--END_SECTION:waka-->
