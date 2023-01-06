@@ -7,6 +7,8 @@
 <!---
 Tutorial for using WakaTime stats in GitHub profile: https://github.com/athul/waka-readme
 -->
+
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
