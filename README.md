@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<!---
+Tutorial for using WakaTime stats in GitHub profile: https://github.com/athul/waka-readme
+-->
 <!--START_SECTION:waka-->
 
 ```text
