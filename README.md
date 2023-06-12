@@ -12,7 +12,7 @@ Tutorial for using WakaTime stats in GitHub profile: https://github.com/athul/wa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2022 - To: 09 June 2023
+From: 29 December 2022 - To: 10 June 2023
 
 Total Time: 169 hrs 33 mins
 
