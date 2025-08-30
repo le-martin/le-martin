@@ -11,15 +11,15 @@ Tutorial for using WakaTime stats in GitHub profile: https://github.com/athul/wa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 22 hrs 49 mins
+Total Time: 23 hrs 20 mins
 
-Other    15 hrs 32 mins  >>>>>>>>>>>>>>>>>--------   68.14 %
-TeX      3 hrs 57 mins   >>>>---------------------   17.34 %
-Python   2 hrs 37 mins   >>>----------------------   11.49 %
-C        36 mins         >------------------------   02.66 %
-TOML     3 mins          -------------------------   00.26 %
+Other    13 hrs 38 mins  >>>>>>>>>>>>>>>----------   58.39 %
+TeX      4 hrs 50 mins   >>>>>--------------------   20.75 %
+Python   4 hrs 10 mins   >>>>---------------------   17.88 %
+C        36 mins         >------------------------   02.60 %
+TOML     3 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
